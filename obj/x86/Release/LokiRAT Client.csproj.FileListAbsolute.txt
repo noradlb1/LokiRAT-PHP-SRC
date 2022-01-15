@@ -1,0 +1,15 @@
+C:\Reversing\12_Malware\LokiRAT\Source\bin\Release\LokiRAT Client.exe.config
+C:\Reversing\12_Malware\LokiRAT\Source\bin\Release\LokiRAT Client.exe
+C:\Reversing\12_Malware\LokiRAT\Source\bin\Release\LokiRAT Client.pdb
+C:\Reversing\12_Malware\LokiRAT\Source\bin\Release\SkinSoft.OSSkin.dll
+C:\Reversing\12_Malware\LokiRAT\Source\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Reversing\12_Malware\LokiRAT\Source\obj\x86\Release\LokiRAT Client.exe
+C:\Reversing\12_Malware\LokiRAT\Source\obj\x86\Release\LokiRAT Client.pdb
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\bin\Release\LokiRAT Client.exe.config
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\bin\Release\LokiRAT Client.exe
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\bin\Release\LokiRAT Client.pdb
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\obj\x86\Release\LokiRAT Client.csprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\obj\x86\Release\LokiRAT Client.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\obj\x86\Release\LokiRAT Client.csproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\obj\x86\Release\LokiRAT Client.exe
+C:\Users\MONSTERMC\Desktop\LokiRAT PHP Source\obj\x86\Release\LokiRAT Client.pdb
